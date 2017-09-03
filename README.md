@@ -1,6 +1,6 @@
 # WebmoveViewTool
 
-Various view specific for applications I use.
+Various view specific data for applications I use.
 
 ## Installation
 
@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DevcampViewTool::Renderer.copyright("Anthony Candaele", "All rights reserved")
+```
 
 ## Development
 
